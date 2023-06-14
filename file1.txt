@@ -1,3 +1,0 @@
-this is a code from machine 1
-this is new code
-this is code from machine 2
